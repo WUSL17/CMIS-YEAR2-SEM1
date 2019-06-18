@@ -9,3 +9,5 @@ Methods of stock valuation
 * First stock to be received is the first to be sold
 * Cost materials take based on the oldest prices 
 
+EOQ - Economy Order Quantity
+
