@@ -9,6 +9,9 @@ create table Customer (
 );
 
 
-insert into Customer
-values (1,'Chamod','Chamod', 'Weniwelpitiya','Horana','12538','Sri Lanka'),
-(2,'Lavanga','Lava','Bandaranayaka Mawatha','Kegalle','12345','Sri Lanka');
+insert into Customer values 
+(1,'Alfreds Futterkiste','Maria Anders','Obere Str. 57','Berlin','12209','Germany'),
+(2,'Ana Trujilo Emparedados y helados','Ana Trujillo','Avda. de la Constitution 2222','Mexico D. F.','05021','Mexico'),
+(3,'Anatonio Moreno Taqueria','Antonio Moreno','Mataderos 2312','Mexico D. F.','05023','Mexico'),
+(4,'Around the Horn','Thomas Hardy','120 Hanover Sq.','London','WA1 1DP','UK'),
+(5,'Berglunds Snabbkop','Christina Berglund','Berguvsvagen 8','Lulea','S-958 22','Sweden');
