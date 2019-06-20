@@ -15,3 +15,7 @@ insert into Customer values
 (3,'Anatonio Moreno Taqueria','Antonio Moreno','Mataderos 2312','Mexico D. F.','05023','Mexico'),
 (4,'Around the Horn','Thomas Hardy','120 Hanover Sq.','London','WA1 1DP','UK'),
 (5,'Berglunds Snabbkop','Christina Berglund','Berguvsvagen 8','Lulea','S-958 22','Sweden');
+
+update Customer 
+set contactName = 'Johana Tennison'
+where customerID = 1;
